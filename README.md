@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 I’m not robot.
-- 🔭 I’m currently working on FireApps.
+- 🔭 I’m currently working at FireApps.
 - 🌱 I’m currently learning about DevOps.
 - 💚 It's Blue.
 - 🍄 Please visit my [Blog](http://thedevportfolio.xyz/) for more details
