@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-- 😄 Pronouns: I'm not robot.
+- 😄 I’m not robot.
+- 🔭 I’m currently working on FireApps.
+- 🌱 I’m currently learning about DevOps.
+- 💚 It's Blue.
+- 🍄 Please visit my [Blog](http://thedevportfolio.xyz/) for more details
 
 <!--
 **duyhenryer/duyhenryer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
