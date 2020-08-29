@@ -9,7 +9,7 @@
 
 <details>
  <summary><strong> 👀 Touch me 👀 </strong></summary>
-<img src="./assets/me.jpg"/>
+<img src="https://github.com/duyhenryer/duyhenryer/blob/master/assets/me.jpg"/>
 
 
 ## Contribution
