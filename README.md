@@ -12,10 +12,3 @@
 <img src="https://github.com/duyhenryer/duyhenryer/blob/master/assets/me.jpg"/>
 
 </details>
-
-## Contribution
-<h align='center'>
-
-![Calvin's github stats](https://github-readme-stats.vercel.app/api?username=duyhenryer&show_icons=true&theme=radical)
-
-</h>
