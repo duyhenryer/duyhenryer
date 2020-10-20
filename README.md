@@ -10,5 +10,12 @@
 <details>
  <summary><strong> 👀 Touch me 👀 </strong></summary>
 <img src="https://github.com/duyhenryer/duyhenryer/blob/master/assets/me.jpg"/>
+ 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duyhenryer&show_icons=true)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duyhenryer&show_icons=true&theme=radical)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duyhenryer&count_private=true)
+
 
 </details>
