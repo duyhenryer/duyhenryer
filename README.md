@@ -8,14 +8,14 @@
 <a href="https://www.linkedin.com/in/duyhenryer/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>
 
 <details>
- <summary><strong> 👀 Touch me 👀 </strong></summary>
-<img src="https://github.com/duyhenryer/duyhenryer/blob/master/assets/me.jpg"/>
+<!--  <summary><strong> 👀 Touch me 👀 </strong></summary>
+<img src="https://github.com/duyhenryer/duyhenryer/blob/master/assets/me.jpg"/> -->
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duyhenryer&show_icons=true)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duyhenryer&show_icons=true&theme=radical)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duyhenryer&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duyhenryer&count_private=true&theme=radical)
 
 <h1 align="center">Hi 👋, I'm Duy Do</h1>
 <h3 align="center">A developer from VietNam</h3>
