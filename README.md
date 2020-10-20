@@ -1,9 +1,4 @@
-<details>
-<!--  <summary><strong> 👀 Touch me 👀 </strong></summary>
-<img src="https://github.com/duyhenryer/duyhenryer/blob/master/assets/me.jpg"/> -->
- </details>
- 
-<h3 align="center"> ![Duy Do's github stats](https://github-readme-stats.vercel.app/api?username=duyhenryer&count_private=true&show_icons=true) </h3>
+![Duy Do's github stats](https://github-readme-stats.vercel.app/api?username=duyhenryer&count_private=true&show_icons=true) 
 
 <h1 align="center">Hi 👋, I'm Duy Do</h1>
 <h3 align="left">Connect with me:</h3>
