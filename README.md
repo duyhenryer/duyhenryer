@@ -1,4 +1,4 @@
-### <div align="center">I'm Duy Do, a full-time System Engineer 👨‍💻 </div>  
+# <div align="center">I'm Duy Do, a full-time System Engineer 👨‍💻 </div>  
   
 - 🔭 I’m currently working on [FireGroup](https://fireapps.io)  
 - 🌱 I’m currently learning Ansible  
@@ -89,7 +89,7 @@
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/duyhenryer" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
                     align="center"
