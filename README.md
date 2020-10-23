@@ -1,4 +1,4 @@
-# <div align="center">I'm Duy Do, a full-time System Engineer 👨‍💻 </div>  
+# <div align="center">I'm Duy Do, a Culi 👨‍💻 </div>  
   
 - 🔭 I’m currently working on [FireGroup](https://fireapps.io)  
 - 🌱 I’m currently learning Ansible  
