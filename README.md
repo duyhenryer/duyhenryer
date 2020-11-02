@@ -1,7 +1,7 @@
 # <div align="center">I'm Culi 👨‍💻 </div>  
   
 - 🔭 I’m currently working on [FireGroup](https://fireapps.io)  
-- 🌱 I’m currently learning Ansible  
+- 🌱 I’m currently learning Ansible, Kafka.
   
 <br/>  
 
