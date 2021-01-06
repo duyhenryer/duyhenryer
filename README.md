@@ -1,4 +1,4 @@
-# <div align="center">I'm Culi 👨‍💻 </div>  
+# <div align="center"> <a> I'm Culi 👨‍💻 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </a> </div>
   
 - 🔭 I’m currently working at [FireGroup](https://fireapps.io)  
 - 🌱 I’m currently learning Ansible, Kafka.
