@@ -3,7 +3,6 @@
 <!-- **About Me :** -->
 
 ```bash
-> 🔭 I’m currently working at FireGroup
 > 🌱 I’m currently learning Ansible, Kafka.
 ```
 
