@@ -3,7 +3,7 @@
 <!-- **About Me :** -->
 
 ```bash
-> 🌱 I’m currently learning Ansible, Kafka.
+> 🌱 I’m currently learning Service Mesh(Istio)
 ```
 
 <br/>  
@@ -50,7 +50,6 @@
 </td></tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
