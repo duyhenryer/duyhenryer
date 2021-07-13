@@ -107,13 +107,11 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/reversecongaparrot.gif" width="40" height="40"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/reversecongaparrot.gif" width="40" height="40"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/reversecongaparrot.gif" width="40" height="40"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/reversecongaparrot.gif" width="40" height="40"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/vietnamparrot.gif" width="40" height="40"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/vietnamparrot.gif" width="40" height="40"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/vietnamparrot.gif" width="40" height="40"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/vietnamparrot.gif" width="40" height="40"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/vietnamparrot.gif" width="40" height="40"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" width="40" height="40"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" width="40" height="40"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" width="40" height="40"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" width="40" height="40"/>
