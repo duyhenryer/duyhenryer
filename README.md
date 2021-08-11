@@ -7,7 +7,7 @@
 
 - 🔭 **System Engineer**
 
-- 📝 I learning Service Mesh(Istio).
+- 📝 I learning Service Mesh(Istio), Kong API Gateway.
 
 - 💬 Ask me about **AWS, K8S, Docker**
 
