@@ -5,11 +5,11 @@
 <img align="right" src="https://github.com/mikonoid/mikonoid/blob/main/images/gifs/coder3.gif?raw=true" width="500" height="320" />
 
 
-- 🔭 **System Engineer**
+- 🔭 ***System Engineer***
 
-- 📝 I learning Service Mesh(Istio), Kong API Gateway.
+- 📝 I learning ***Service Mesh(Istio), Kong API Gateway.***
 
-- 💬 Ask me about **AWS, K8S, Docker**
+- 💬 Ask me about ***AWS, K8S, Docker***
 
 - 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/duyhenryer/)
 
