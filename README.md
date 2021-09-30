@@ -9,7 +9,6 @@
 
 - 📝 I learning ***Service Mesh(Istio), Kong API Gateway.***
 
-- 💬 Ask me about ***AWS, K8S, Docker***
 
 - 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/duyhenryer/)
 
