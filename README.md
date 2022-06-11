@@ -5,10 +5,9 @@
 <img align="right" src="https://github.com/mikonoid/mikonoid/blob/main/images/gifs/coder3.gif?raw=true" width="500" height="320" />
 
 
-- 🔭 ***DevOps Engineer***
+- 🔭 I'm DevOps Engineer
 
-- 📝 I learning ***Service Mesh(Istio), Kong API Gateway, CDK, ***
-
+- 📝 I learning Service Mesh(Istio), Kong API Gateway, CDK
 
 - 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/duyhenryer/)
 
