@@ -100,6 +100,10 @@
 </div>
 <br/>  
 
+## Snake 
+
+<img src="https://raw.githubusercontent.com/duydo-ct/duydo-ct/output/snake.svg" alt="Snake animation" />
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/duyhenryer" target="_blank">
