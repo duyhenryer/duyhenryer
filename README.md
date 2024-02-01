@@ -76,11 +76,18 @@
     <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
     <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
     <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
 </div>
 <br/>  
-
-## Snake 
-<img src="https://raw.githubusercontent.com/duydo-ct/duydo-ct/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=duyhenryer&&style=flat-square" align="center" />
@@ -98,7 +105,7 @@
             </a></div>
 <br />
 
-## Connect with me  
+#### Connect with me  
 <div align="center">
 <a href="https://github.com/duyhenryer" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
