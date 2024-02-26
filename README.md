@@ -1,4 +1,4 @@
-# <div align="center"> <a> I'm Culi 👨‍💻 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </a> </div>
+# <div align="center"> <a> I'm Duy 👨‍💻 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </a> </div>
   
 <!-- **About Me :** -->
 
