@@ -2,7 +2,6 @@
   
 <!-- **About Me :** -->
 
-<img align="right" src="https://github.com/mikonoid/mikonoid/blob/main/images/gifs/coder3.gif?raw=true" width="500" height="320" />
 
   <samp>
     
@@ -13,75 +12,101 @@
 </samp>
 <br/>  
 
-```
+```yaml
 {
-  "personalInformation": {
-    "firstName": "John",
-    "lastName": "Doe",
-    "email": "john.doe@example.com",
-    "phone": "123-456-7890",
-    "address": "123 Main Street, Cityville"
-  },
-  "education": [
-    {
-      "degree": "Bachelor of Science in Computer Science",
-      "school": "University of Tech",
-      "graduationYear": 2020
-    }
-  ],
-  "workExperience": [
-    {
-      "title": "Software Engineer",
-      "company": "Tech Solutions Inc.",
-      "startDate": "2020-06-01",
-      "endDate": "2022-01-01",
-      "responsibilities": [
-        "Developed and maintained web applications",
-        "Collaborated with cross-functional teams",
-        "Troubleshooted and resolved software issues"
+    "basics": {
+      "name": "Duy Henry",
+      "summary": "DevOps expert skilled in automating and optimizing IT operations. Proven track record in enhancing collaboration, deploying scalable infrastructure, and ensuring seamless integration between development and operations. Committed to staying updated with emerging technologies for continuous improvement.",
+      "contact": {
+        "email": "duyhenry@protonmail.com",
+        "phone": "+84"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "pbourdelas",
+          "url": "https://www.linkedin.com/in/duyhenryer/"
+        },
+        {
+          "network": "GitHub",
+          "username": "duyhenryer",
+          "url": "https://github.com/duyhenryer"
+        },
+        {
+          "network": "X",
+          "username": "duyhenryer",
+          "url": "https://x.com/duyhenryer"
+        }
       ]
     },
-    {
-      "title": "Intern",
-      "company": "Innovative Tech Co.",
-      "startDate": "2019-05-01",
-      "endDate": "2019-08-01",
-      "responsibilities": [
-        "Assisted in software development tasks",
-        "Conducted code reviews",
-        "Participated in team meetings"
-      ]
-    }
-  ],
-  "skills": [
-    "Programming Languages: Java, Python, JavaScript",
-    "Web Development: HTML, CSS, React",
-    "Database Management: MySQL, MongoDB",
-    "Version Control: Git",
-    "Problem Solving",
-    "Team Collaboration"
-  ],
-  "certifications": [
-    "AWS Certified Developer - Associate",
-    "Scrum Master Certification"
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "proficiency": "Fluent"
-    },
-    {
-      "language": "Spanish",
-      "proficiency": "Intermediate"
-    }
-  ],
-  "interests": [
-    "Open-source projects",
-    "Artificial Intelligence",
-    "Hiking"
-  ]
+    "skills": [
+      {
+        "category": "Coding",
+        "level": "Beginner",
+        "keywords": ["Python"]
+      },
+      {
+        "category": "Tooling",
+        "level": "Advanced",
+        "keywords": ["Git", "Database", "Gitlab", "Kubernetes"]
+      },
+      {
+        "category": "System",
+        "level": "Intermediate",
+        "keywords": ["Windows", "OSX", "Linux (install and setup)"]
+      },
+      {
+        "category": "Graphics",
+        "level": "Beginner",
+        "keywords": ["Figma"]
+      }
+    ],
+    "work": [
+      {
+        "company": "NeoFacto",
+        "position": "Consultant",
+        "website": "https://neofacto.com/",
+        "startDate": "2018-09-01",
+        "summary": "Developer and software architect, working on full-stack solutions around Ethereum blockchain technology."
+      },
+      {
+        "company": "Centre de Recherche Interdisciplinaire",
+        "position": "Unity Developer",
+        "startDate": "2017-07-01",
+        "endDate": "2017-08-20",
+        "summary": "Part of a team developing a POC serious game for Android in VR using Unity, Google Cardboard library, and the Movuino board."
+      }
+    ],
+    "publications": [],
+    "education": [
+      {
+        "institution": "Université du Québec à Chicoutimi",
+        "area": "Informatique concentration développement de jeux vidéo",
+        "studyType": "Maîtrise",
+        "startDate": "2017-09-01",
+        "endDate": "2018-08-01",
+        "gpa": "3.51"
+      }
+    ],
+    "volunteer": [],
+    "awards": [],
+    "languages": [
+      { "language": "English", "fluency": "basics" }
+    ],
+    "interests": [
+      { "name": "Video Game" },
+      { "name": "3D Printing" },
+      {
+        "name": "Historical European martial arts",
+        "keywords": ["Viking period", "Eastern and Western style"]
+      },
+      { "name": "Cooking" },
+      { "name": "Tabletop/role playing game" },
+      { "name": "Vintage Car" }
+    ],
+    "projects": []
 }
-
+  
 ```
 
 <!-- ## My Skill  
