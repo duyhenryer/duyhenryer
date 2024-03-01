@@ -13,6 +13,77 @@
 </samp>
 <br/>  
 
+```
+{
+  "personalInformation": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "phone": "123-456-7890",
+    "address": "123 Main Street, Cityville"
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "school": "University of Tech",
+      "graduationYear": 2020
+    }
+  ],
+  "workExperience": [
+    {
+      "title": "Software Engineer",
+      "company": "Tech Solutions Inc.",
+      "startDate": "2020-06-01",
+      "endDate": "2022-01-01",
+      "responsibilities": [
+        "Developed and maintained web applications",
+        "Collaborated with cross-functional teams",
+        "Troubleshooted and resolved software issues"
+      ]
+    },
+    {
+      "title": "Intern",
+      "company": "Innovative Tech Co.",
+      "startDate": "2019-05-01",
+      "endDate": "2019-08-01",
+      "responsibilities": [
+        "Assisted in software development tasks",
+        "Conducted code reviews",
+        "Participated in team meetings"
+      ]
+    }
+  ],
+  "skills": [
+    "Programming Languages: Java, Python, JavaScript",
+    "Web Development: HTML, CSS, React",
+    "Database Management: MySQL, MongoDB",
+    "Version Control: Git",
+    "Problem Solving",
+    "Team Collaboration"
+  ],
+  "certifications": [
+    "AWS Certified Developer - Associate",
+    "Scrum Master Certification"
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ],
+  "interests": [
+    "Open-source projects",
+    "Artificial Intelligence",
+    "Hiking"
+  ]
+}
+
+```
+
 <!-- ## My Skill  
 <table><tr><td valign="top" width="50%">
 
