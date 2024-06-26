@@ -1,4 +1,4 @@
-<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24"> I'm Duy <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24">
+<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24"> My name is D**uy** H**e**n**ry** <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24">
 
 <samp>
     
