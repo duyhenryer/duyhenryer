@@ -62,26 +62,6 @@
 <br/>
 <br/>
 <br/>
-
-<div align="center">
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="40" height="40"/>
-</div>
-
-
 <br/>  
 
 <div align="center">
