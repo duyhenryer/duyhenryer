@@ -7,7 +7,6 @@
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="17px"> Know about my experiences on [Linkedin](https://www.linkedin.com/in/duyhenryer/)
   
 </samp>
-<br/>  
 
 <div align="center">
         <img src="https://komarev.com/ghpvc/?username=duyhenryer&&style=flat-square" align="center" />
