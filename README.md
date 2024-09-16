@@ -14,7 +14,12 @@
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="17px"> I'm DevOps Engineer
 <br/> 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="17px"> Know about my experiences on [Linkedin](https://www.linkedin.com/in/duyhenryer/)
-  
+
+DM to me.
+| Type   |      Kind      |
+|----------|:-------------:|
+| Web Address |  t.me/duyne |
+| TON Web 3.0 Address |    duyne.t.me   |
 </samp>
 
 <div align="center">
