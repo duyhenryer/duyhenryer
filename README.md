@@ -19,7 +19,7 @@ DM to me.
 | Type   |      Kind      |
 |----------|:-------------:|
 | Web Address |  t.me/duyne |
-| TON Web 3.0 Address |    duyne.t.me   |
+| Web 3.0 Address |    duyne.t.me   |
 </samp>
 
 <div align="center">
