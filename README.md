@@ -3,11 +3,8 @@
 <kbd> U </kbd>
 <kbd> Y </kbd>
 <kbd>  </kbd>
-<kbd> H </kbd>
-<kbd> E </kbd>
 <kbd> N </kbd>
-<kbd> R </kbd>
-<kbd> Y </kbd> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24">
+<kbd> E </kbd> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24">
 
 <samp>
     
