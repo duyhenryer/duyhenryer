@@ -4,7 +4,8 @@
 <kbd> Y </kbd>
 <kbd>  </kbd>
 <kbd> N </kbd>
-<kbd> E </kbd> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24">
+<kbd> E </kbd> 
+<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24">
 
 <samp>
     
