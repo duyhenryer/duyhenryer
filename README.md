@@ -11,7 +11,7 @@
     
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="17px"> I'm DevOps Engineer
 <br/> 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="17px"> Know about my experiences on [Linkedin](https://www.linkedin.com/in/duyhenryer/)
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="17px"> Know about my experiences on [Linkedin](https://www.linkedin.com/in/duyne/)
 
 DM to me.
 | Type   |      Kind      |
