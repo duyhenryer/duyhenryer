@@ -1,11 +1,4 @@
-<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24"> My name is 
-<kbd> D </kbd>
-<kbd> U </kbd>
-<kbd> Y </kbd>
-<kbd>  </kbd>
-<kbd> N </kbd>
-<kbd> E </kbd> 
-<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24">
+<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24"> <kbd> D </kbd> <kbd> U </kbd><kbd> Y </kbd><kbd>  </kbd><kbd> N </kbd><kbd> E </kbd> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24">
 
 <samp>
     
