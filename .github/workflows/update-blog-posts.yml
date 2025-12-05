@@ -30,7 +30,7 @@ jobs:
       - name: Update README with latest blog posts
         env:
           RSS_FEED_URL: https://duyne.me/dailydiary/index.xml
-          MAX_POSTS: 10
+          MAX_POSTS: 5
         run: |
           python .github/scripts/update-blog-posts.py
       
