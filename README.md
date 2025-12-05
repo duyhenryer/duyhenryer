@@ -13,6 +13,12 @@ DM to me.
 | Web 3.0 Address |    duyne.t.me   |
 </samp>
 
+## Latest Blog Posts
+
+<!-- BLOG_POSTS_START -->
+<!-- Blog posts will be automatically updated here by GitHub Actions -->
+<!-- BLOG_POSTS_END -->
+
 <div align="center">
         <img src="https://komarev.com/ghpvc/?username=duyhenryer&&style=flat-square" align="center" />
         <a href="https://www.buymeacoffee.com/duyhenryer" target="_blank" style="display: inline-block;">
