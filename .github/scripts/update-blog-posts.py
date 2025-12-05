@@ -42,13 +42,14 @@ def parse_rss_feed(url):
         return []
 
 def format_posts_markdown(posts):
-    """Format posts list as markdown."""
+    """Format posts list as markdown with smaller font size."""
     if not posts:
         return "No posts available."
     
     lines = []
     for post in posts:
-        lines.append(f"- [{post['title']}]({post['link']}) - {post['date']}")
+        # Use HTML with smaller font size (85% of normal size)
+        lines.append(f"- <span style=\"font-size: 85%\">[{post['title']}]({post['link']}) - {post['date']}</span>")
     
     return '\n'.join(lines)
 
