@@ -18,11 +18,11 @@ DM to me.
 #### My latest blog posts
 
 <!-- BLOG_POSTS_START -->
+- <span style="font-size: 85%">[Running - A Year Without a Finish Line, But Full of Lessons](https://duyne.me/dailydiary/running-2025/) - Dec 30, 2025</span>
 - <span style="font-size: 85%">[NodeLocal DNSCache on EKS](https://duyne.me/dailydiary/eks-nodelocal-dnscache/) - Dec 18, 2025</span>
 - <span style="font-size: 85%">[Allowing a Role to Assume Another Role](https://duyne.me/dailydiary/aws-iam-role-to-role-assumerole/) - Oct 27, 2025</span>
 - <span style="font-size: 85%">[EKS Module v20 to v21 Upgrade](https://duyne.me/dailydiary/eks-module-v20-to-v21/) - Oct 20, 2025</span>
 - <span style="font-size: 85%">[EC2 Node Exporter](https://duyne.me/dailydiary/ec2-node-exporter/) - Sep 01, 2025</span>
-- <span style="font-size: 85%">[Kubernetes 1.33: Octarine - The Color of Magic](https://duyne.me/dailydiary/kubernetes-1-33-octarine/) - Apr 24, 2025</span>
 <!-- BLOG_POSTS_END -->
 
 <div align="center">
