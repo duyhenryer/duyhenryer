@@ -25,6 +25,20 @@ DM to me.
 - <span style="font-size: 85%">[EC2 Node Exporter](https://duyne.me/dailydiary/ec2-node-exporter/) - Sep 01, 2025</span>
 <!-- BLOG_POSTS_END -->
 
+![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
+![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
+![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
+![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
+![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
+![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
+![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
+![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
+![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
+![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
+![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
+![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
+![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
+
 <div align="center">
         <img src="https://komarev.com/ghpvc/?username=duyhenryer&&style=flat-square" align="center" />
         <a href="https://www.buymeacoffee.com/duyhenryer" target="_blank" style="display: inline-block;">
