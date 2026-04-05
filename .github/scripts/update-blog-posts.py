@@ -10,7 +10,7 @@ import feedparser
 from datetime import datetime
 
 # Configuration
-RSS_FEED_URL = os.getenv('RSS_FEED_URL', 'https://duyne.me/dailydiary/index.xml')
+RSS_FEED_URL = os.getenv('RSS_FEED_URL', 'https://blog.duyne.me/dailydiary/index.xml')
 MAX_POSTS = int(os.getenv('MAX_POSTS', '10'))
 README_PATH = 'README.md'
 SECTION_START = '<!-- BLOG_POSTS_START -->'
